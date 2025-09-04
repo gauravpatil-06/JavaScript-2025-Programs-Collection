@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>sum of first N natural numbe</title>
+</head>
+<body>
+    <script>
+        //For Loop
+        //Write a program to print sum of first N natural number
+        let sum = 0;
+        let n = prompt("Enter any number: ");
+        n = Number.parseInt(n);
+
+        // for (let i = 0; i < n; i++) 
+        // {
+        //     sum +=i + 1;
+        // }
+
+        for (let i = 1; i <= n; i++) 
+        {
+            sum = sum +i;
+        }
+        alert("Sum of first " + n + " natural number is " + sum);
+    </script>
+</body>
+</html>

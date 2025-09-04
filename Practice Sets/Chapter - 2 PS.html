@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Chapter - 2 Practice Set</title>
+</head>
+<body>
+    <script>
+        // Chabler 1- Practice Set
+
+        // Q1. Use logical obcrators to find whether the age of a person lies between 10 and 20?
+        let age = prompt("Age of a person lies between 10 and 20: \nEnter your age: ");
+        
+        if(age>10 && age<20)
+        {
+            alert("Your age is lies between 10 and 20");
+        }
+        else
+        {
+            alert("Your age does not lies between 10 and 20");
+        }
+
+        // Q2. Demonstrate the use of swith case statements in Javascript
+        const day = prompt("Select Month using swith case statements: \nEnter any Month: ");
+
+        switch(day)
+        {
+            case "Monday"	 : alert("It is Monday");
+            break;
+            case "Tuesday"	 :  alert("It is Tuesday");
+            break;
+            case "Wednessday":  alert("It is Wednessday");
+            break;
+            case "Thursday"  :  alert("It is Thursday");
+            break;
+            case "Friday"	 :  alert("It is Friday");
+            break;
+            case "Saturday"	 :  alert("It is Saturday");
+            break;
+            case "Sunday"	 :  alert("It is Sunday");
+            break;		
+            default          : alert("Invalied Day!!!");
+        }
+
+        // Q3. Write a Javascript program to find whether a number is Divisible by 2 and 3.
+        let num1 = prompt("Number is Divisible by 2 and 3: \nEnter any Number: ");
+        
+        if(num1 % 2 == 0 && num1 % 3 == 0)
+        {
+            alert("Number is Divisible by 2 and 3.");
+        }
+        else
+        {
+             alert("Number is not Divisible by 2 and 3.");
+        }
+
+        // Q4. Write a Javascript program to find whether a number is Divisible by either 2 & 3.
+        let num2 = prompt("Number is Divisible by either 2 and 3: \nEnter any Number: ");
+        
+        if(num2 % 2 == 0)
+        {
+            alert("Number is Divisible by 2.");
+        }
+        else if(num2 % 3 == 0)
+        {
+            alert("Number is Divisible by 3.");
+        }
+        else
+        {
+             alert("Number is not Divisible by 2 and 3.");
+        }
+
+        // Q5. Print "You can drive" or "You cannot drive" based on age being greater than 18 using  ternary oberator.
+        let age_drive = prompt("Age being greater than 18 or not: \nEnter your age: ");
+        age_drive = age_drive>18 ? "You can drive" : "You cannot drive";
+        alert(age_drive);
+
+    </script>
+</body>
+</html>
