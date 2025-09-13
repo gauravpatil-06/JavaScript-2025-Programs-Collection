@@ -4,15 +4,11 @@
 
 🔧 𝗞𝗲𝘆 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀:
 
-• 🖥 𝗕𝗮𝘀𝗶𝗰𝘀 & 𝗖𝗼𝗻𝘁𝗿𝗼𝗹 𝗙𝗹𝗼𝘄 – Variables, operators, if-else, switch, loops
-
-• 🧮 𝗙𝘂𝗻𝗰𝘁𝗶𝗼𝗻𝘀 & 𝗔𝗿𝗿𝗮𝘆𝘀 – User-defined functions, array methods, iteration
-
-• 📦 𝗢𝗯𝗷𝗲𝗰𝘁𝘀 & 𝗝𝗦𝗢𝗡 –  Object properties, methods, JSON parsing/stringify
-
-• 🎨 𝗗𝗢𝗠 𝗠𝗮𝗻𝗶𝗽𝘂𝗹𝗮𝘁𝗶𝗼𝗻 –  Accessing & modifying HTML elements dynamically
-
-• ⚡ 𝗘𝘃𝗲𝗻𝘁𝘀 𝗛𝗮𝗻𝗱𝗹𝗶𝗻𝗴 – onClick, onChange, key events, form validation
+• 🖥 𝗕𝗮𝘀𝗶𝗰𝘀 & 𝗖𝗼𝗻𝘁𝗿𝗼𝗹 𝗙𝗹𝗼𝘄 – Variables, operators, if-else, switch, loops <br>
+• 🧮 𝗙𝘂𝗻𝗰𝘁𝗶𝗼𝗻𝘀 & 𝗔𝗿𝗿𝗮𝘆𝘀 – User-defined functions, array methods, iteration <br>
+• 📦 𝗢𝗯𝗷𝗲𝗰𝘁𝘀 & 𝗝𝗦𝗢𝗡 –  Object properties, methods, JSON parsing/stringify <br>
+• 🎨 𝗗𝗢𝗠 𝗠𝗮𝗻𝗶𝗽𝘂𝗹𝗮𝘁𝗶𝗼𝗻 –  Accessing & modifying HTML elements dynamically <br>
+• ⚡ 𝗘𝘃𝗲𝗻𝘁𝘀 𝗛𝗮𝗻𝗱𝗹𝗶𝗻𝗴 – onClick, onChange, key events, form validation <br>
 
 🎯 𝗜𝗱𝗲𝗮𝗹 𝗙𝗼𝗿:
 
